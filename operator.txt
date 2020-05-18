@@ -8,3 +8,4 @@ git log //最近提交的日志
 git status//当前状态
 git diff 文件名//查看不同
 git reset --hard HEAD^//回退
+git checkout -- //撤销工作区修改
