@@ -1,0 +1,9 @@
+git init//初始化
+cd ~ 
+pwd //当前目录 
+cd  文件名 //进入文件
+git add  文件名+后缀//添加文件
+git commit -m""//添加备注
+git log //最近提交的日志
+git status//当前状态
+git diff 文件名//查看不同
